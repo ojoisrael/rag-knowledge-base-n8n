@@ -156,6 +156,6 @@ Built as part of my AI and workflow automation portfolio to demonstrate how busi
 
 Portfolio: https://ojo-israel-portfolio.lovable.app
 
-LinkedIn: https://www.linkedin.com/in/israel-ojo-514661394
+LinkedIn: https://www.linkedin.com/in/ojo-israel-ai-and-workflow-automation
 
 GitHub: https://github.com/ojoisrael
