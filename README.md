@@ -4,6 +4,8 @@ An n8n workflow that turns business knowledge into a searchable vector knowledge
 
 The workflow uses Google Gemini embeddings and Supabase Vector Store to prepare business information for retrieval-augmented generation (RAG).
 
+![Knowledge Base n8n Workflow](screenshot/knowledge-base-n8n)
+
 ## What it does
 
 Businesses often have useful information spread across documents, FAQs, policies, product information, and internal resources.
