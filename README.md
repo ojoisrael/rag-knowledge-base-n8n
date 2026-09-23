@@ -161,3 +161,7 @@ Portfolio: https://ojo-israel-portfolio.lovable.app
 LinkedIn: https://www.linkedin.com/in/ojo-israel-ai-and-workflow-automation
 
 GitHub: https://github.com/ojoisrael
+
+---
+
+**Built by Ojo Israel — AI & Workflow Automation Specialist**
